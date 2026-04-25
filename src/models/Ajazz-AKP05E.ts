@@ -1,7 +1,7 @@
 import type { StreamDockModelDefinition } from './list.js'
 
 export const Ajaz_AKP05EDefinition: StreamDockModelDefinition = {
-	productName: 'Stream Dock N4',
+	productName: 'Ajazz AKP05E',
 	iconRotation: 180,
 	usbIds: [
 		{
